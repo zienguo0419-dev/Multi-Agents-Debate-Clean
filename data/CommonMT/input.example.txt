@@ -1,0 +1,204 @@
+发明的是一个伟大的科学家。 ,A great scientist invented it.，
+发明的是一个机器人。,A robot was invented.，
+关心的是高的分数。,High scores was cared about.，
+关心的是关心你的，但是你却不关心的人。,The people who care for you but you don't care for care for you.，
+批评的是犯了错误的学生。,The student who made the mistake was criticized.，
+批评的是治学严厉的教师。,The one who criticizes is the rigorous teacher .，
+正在采收的是果园里的果实。,What is being harvested is the fruit in the orchard.，
+正在采收的是果园里的果农。,The orchard worker in the orchard is harvesting.，
+正在手术的是健康的医生。,A healthy doctor is doing surgery.，
+正在手术的是生命垂危的病人。,What is undergoing surgery is a patient whose life is dying.，
+正在教授的是知识。,What is taught is knowledge.，
+正在教授的是正教授。,A professor is teaching.，
+正在执行的是法律。,What is implemented is the law.，
+正在执行的是法警。,The bailiff is implementing.，
+正在收割的是农田里的稻谷。,What is being harvested is the rice in the farmland.，
+正在收割的是农民的孩子。,The farmer's child is harvesting.，
+正在管理的是机房。,What is being managed is the computer room.，
+正在管理的是学校专门的管理员。,The school's dedicated administrator is managing.，
+捕获的是猎物。,The prey is hunted.，
+捕获的是猎人。,The hunter is hunting.，
+敲打的是鼓。,What is beaten is the drum.，
+敲打的是已经在击鼓行业工作了数十年的鼓手。,The drummer who have been working in the drumming industry for decades is beating.，
+扮演的是一头龙。,What is acted is a dragon.，
+扮演的是李连杰。,The role is played by Lianjie Li.，
+研究的是企业文化。,The corporate culture is studied.，
+研究的是企业科研人员。,The corporate researchers is studying.，
+飞跃的是峡谷。,What was leaped is the canyon.，
+飞跃的专业运动员。,The professional athletes is leaping.，
+发现的是一个新的古文明。,What is Discovered is a new civilizations.，
+发现的是一个考古教授。,A archaeological professor discovered it.，
+调研乡镇的经济发展情况。,The economic development of townships is investigated.，
+调研乡镇的经济学教授。,The economics professor who investigates townships.，
+记录实验的表格。,The form which is used to record the experiment.，
+记录实验的结果。,The results of the experiment is recorded.，
+吃了游客的鳄鱼。,The crocodile who ate the tourists.，
+吃了游客的猫。,The tourist's cat was eaten.，
+丢了他家的可爱的狗。,The cute dog of his home has been thrown.，
+咬了他家人的野狗。,The wild dog who bit his family.，
+挖西瓜的勺子。,The spoon which is used to dig the watermelon.，
+削西瓜的皮。,The skin of the The watermelon is cut.，
+维修桌子的桌脚。,The table legs are repaired.，
+维修桌子的锤子。,The hammer which is used to repair the table.，
+游览他国的总统。,The president who visited other countries.，
+游览他国的景点。,Visited the attractions of other countries.，
+搜索程序的程序员。,A programmer who searches for programs.，
+搜索程序的代码。,What is searched is the code of the program.，
+三条河里的石头。 ,Stones in three rivers.，
+三块河里的石头。,Three stones in the river，
+两匹草地上的马。,Two horses on the grass.，
+两片草地上的马。,Horses on two grasses.，
+三节玩具车的电池。,Three batteries of the toy car.，
+三辆玩具车的电池。,The batteries of three toy cars.，
+四架桌上的照相机。,Four cameras on the table.，
+四张桌上的照相机。,The cameras on four tables.，
+两把厨房里的菜刀。,Two kitchen knives in the kitchen.，
+两处厨房里的菜刀。,The kitchen knives in two kitchens.，
+四篇报纸上的文章。,Four articles in the newspaper.，
+四张报纸上的文章。,The Articles in four newspapers.，
+参观了千年古建筑。,Visited two thousand years' ancient building.，
+参观了五小时古建筑。,Visited the ancient building for five hours.，
+挑选了十分钟木头。,Pick a wood for ten minutes.，
+挑选了千年木头。,Pick a wood of thousand years.，
+扮演了两分钟角色。,Played a role for two minutes.，
+扮演了500年前人物。,Played the character who lived in 500 years ago.，
+连续写了5份会议报告书。,Five conference reports were written in succession.，
+连续写了5小时会议报告书。,The coference report was written for 5 hours in succession.，
+讲了2小时历史。,Talking about history for 2 hours.，
+讲了1百年历史。,Talking about a hunderd years' history.，
+画了6分钟画。,Drew a painting for six minutes.，
+画了6幅画。,Drew six paintings.，
+做了5张试卷。,Did five papers.，
+做了5分钟试卷。,Did the paper for five minutes.，
+销售快速的商品。,The goods that sells rapidly.，
+销售昂贵的商品。,Selling expensive goods.，
+修建快速的建筑。,Building a building quickly.，
+修建巨大的建筑。,Building a huge building.，
+探查无人的地区。,Explore unmanned areas.，
+探查明白的地区。,The areas has been explored clearly.，
+观看精彩的电影。,Watch a great movie.，
+观看舒服的电影。,feeling comfortable when watching the movie.，
+采购顺利的产品。,The product that is purchased successfully.，
+采购易碎的产品。,Purchasing fragile products.，
+研究困难的问题。,Study difficult problems.，
+研究清楚的问题。,The question is studied clearly.，
+操纵方便的机器。,The machine that is manipulated conveniently.，
+操纵重要的机器。,Manipulate important machines.，
+囚禁凶狠的罪犯。,Imprison a fierce criminal.，
+囚禁严密的罪犯。,The criminal has been imprisoned tightly.，
+交老师作业本。,Hand homework to teacher.，
+交红色作业本。,Hand in the red homework.，
+捐赠图书馆图书。,Donate books to library.，
+捐赠国外图书。,Donate foreign books.，
+送过生日的领导礼物。,Send a gift to the leader on his birthday.，
+送生日礼物。,Send a birthday gift.，
+毯子和凳子的腿都坏了。,The blanket and the legs of the stool were broken.，
+他的衣服的袖子和拐杖都脏了。,The sleeves of his clothes and crutches are dirty.，
+电脑的屏幕和椅子需要摆放整齐。,The mainframe of the computer and chair need to be neatly arranged.，
+桌子上的电脑和沙发都要扔掉。,The computer on the table and the sofa should be thrown away.，
+在这个商场工作的保安人员和警察在大楼外面交流。,Security guards working in the mall and police communicate outside the building.，
+在空中的小鸟和鱼都是他的捕猎对象。 ,The birds in the air and fish are his hunting objects.，
+收获的是勤劳的农夫。,It's the hardworking farmer that harvest.，
+收获的是可口的果实。,What is harvested is delicious fruit.，
+创造的是一个科学家。,It is a scientist that create.，
+创造的是一个机器人。,What is created is a robot.，
+严厉打击的是偷窃行为。,What is severely attacked is theft.，
+严厉打击的是久经训练的特警。,It is the well-trained special police that attack severely.，
+调查的是这桩贪污腐败案件。,The investigation was about this corruption case.，
+调查的是这桩案件中贪污的人员。,The investigation was conducted on the corrupted personnel in this case.，
+错失的是这次难得的机会。,What is missed is this rare opportunity.，
+错失的是等待机会很久的运动员们。,Tt's the athletes who have waited for a long time that miss.，
+表演的是来自省里的一线演员。,The performance Is given by the A-list actors in the province.，
+表演的是西游记里的孙悟空。,The performance is about the Monkey King in the Journey to the West.，
+推出的是一款跨时代的手机。,What is introduced is an inter-generational mobile phone.，
+推出的是一家伟大的公司。,It is a great company that launch it.，
+科研的是一线的科学家。,It is the frontline scientist that do scientific research.，
+科研的是国际上的新兴领域。,What is researched is an emerging field in the world.，
+研究的是国际知名数学难题。,What is studied is an internationally renowned mathematical problem.，
+研究的是专攻数学题的国际知名数学家。,It is the internationally renowned mathematician specializing in math problems that study.，
+解出的是五道国际知名数学难题。,What is solved is five internationally renowned mathematical problems.，
+解出来的是五位国际知名数学家。,It's the five internationally renowned mathematicians that solve it.，
+杀了房东的猫。,Killed the landlord's cat.，
+杀了房东的杀手。,The killer killed the landlord.，
+装修房子的工作室人员。,The studio staff who renovated the house.，
+装修房子的工作室房间。,Renovating the studio room of the house.，
+研究代码的整体架构。,Study the overall architecture of the code.，
+研究代码的整体架构师。,The general architect who research the code.，
+参观大皇宫的内部构造。,Visit the internal structure of the Grand Palace.，
+参观大皇宫的内部人员。,The internal personnel who visit the Grand Palace.，
+制裁伊朗的经济。,Sanction the Iranian economy.，
+制裁伊朗的经济大国。,The economic power who sanction Iran.，
+发展国家的经济水平。,Develop the economic level of the country.，
+发展国家的经济学专家。,The economic experts who develop the country.，
+打击经济犯罪的团伙。,Combat the gangs of economic crimes.，
+打击经济犯罪的警察。,The police who combat economic crimes.，
+调查重大案件的嫌疑人。,Investigate suspects in major cases.，
+调查重大案件嫌疑人的刑警。,The criminal police who investigate the suspects in major cases.，
+喜欢旅游的过程中遇到的旅行家。,Love travellers who I met in the process of traveling.，
+喜欢旅游的过程的旅行家。,Travellers who like the process of travel.，
+一件橱柜里的衣服。,A piece of clothing in the cupboard.，
+一个橱柜里的衣服。,Clothes in a cupboard.，
+三座寺庙里的和尚。,The monks in the three temples.，
+三位寺庙里的和尚。,Three monks in the temple.，
+四台桌上的电脑。,Four computers on the table.，
+四张桌上的电脑。,Computers on the four tables.，
+五张床上的手机。,Phones on five beds.，
+五只床上的手机。,Five phones on the bed.，
+六本杂志上的封面人物。,Cover characters on six magazines.，
+六位杂志上的封面人物。,Six cover characters on the magazine.，
+七朵盆栽中的鲜花。,Seven flowers in the pot.，
+七盆盆栽里的鲜花。,Flowers in seven pots.，
+八枚钱包里的硬币。,Eight coins in the wallet.，
+八只钱包里的硬币。,Coins in eight wallets.，
+九位电影中的演员。,Nine actors in the movie.，
+九场电影中的情节。,The plots in nine movies.，
+老师讲了三天的历史。,The teacher taught the history for three days.，
+老师教了三千年的历史。,The teacher taught the history of three thousand years.，
+演出了两天的历史剧。,Performed a historical drama for 2 days.，
+演出了两千年的历史剧。,Performed a historical drama of two thousand years.，
+写了三天作业。,I wrote assignments for three days.，
+写了三张作业。,I wrote three assignments.，
+卖了十几年车。,Sold cars for more than ten years.，
+卖了辆十几年的车。,Sold a car which was used for more than ten years.，
+我看了十几年电影。,I have watched movies for more than ten years.，
+我看了部十几年前的电影。,I watched a movie which was played ten years ago.，
+经营了十几年店铺。,Has been operating a store for more than ten years.，
+经营了家十几年的店铺。,I have run a store that has opened for more than ten years.，
+曾经重要的历史转折点。,A once-meaningful historical turning point.，
+意义重要的历史转折点。,A significant turning point in the history.，
+购买困难的商品。,Goods that are bought difficultly.，
+购买便宜的商品。,Buy cheap goods.，
+销售困难的产品。,Products that are difficult to sell.，
+销售便宜的劣质产品。,Selling cheap and inferior products.，
+情节精彩的电视剧。,TV series that have wonderful plots.，
+晚上精彩的电视剧。,Wonderful TV series in the evening.，
+感觉愉悦的气氛。,The pleasant atmosphere.，
+享受快乐的气氛。,Enjoy the delightful atmosphere.，
+研究简单的问题。,Study simple questions.，
+研究完成的问题。,The problem that has been studied completely.，
+考察严格的考官。,Examiners that examine strictly.，
+考察落后的学生。,Investigate underachieving students.，
+咬死了猎人的猫。,Killed the hunter's cat.，
+咬死了狐狸的老虎。,The tiger that killed the fox.，
+杀死了猎人的狗。,Killed the hunter's dog，
+杀死了猎人的老虎。,The tiger that killed the hunter.，
+吃掉了蛋糕的巧克力。,Eat the chocolate of the cake.，
+吃掉了蛋糕的小孩。,The child who ate the cake.，
+爱上了明星的女孩儿。,The girl who falls in love with the star.，
+爱上了明星的作品。,Fall in love with the works of the stars.，
+错怪了父母的良苦用心。,Wrongly blame the parents for their good intentions.，
+错怪了父母的小孩子。,The child who wrongly blame the parents.，
+维修了房间的窗户。,Repaired the windows of the room.，
+维修了房间的工人。,The worker who repaired the room.，
+审判的是一个法官。,The trial was conducted by a judge.，
+审判的是一个罪犯。,A criminal was brought to trial.，
+教导的是我的老师。,My teacher is teaching.，
+教导的是热爱学习的学生。,Students who love learning are taught.，
+喜欢这篇文章的文笔。,Like the writing of this article.，
+喜欢这篇文章的文艺青年。,Literary youths who like this article.，
+倾听动人音乐的歌词。,Listen to the lyrics of moving music.，
+倾听动人音乐的听众。,Listeners listening to moving music.，
+欣赏园林的动人风景。,Admire the beautiful scenery of the garden.，
+欣赏园林的游客。,Tourists admiring the garden.，
+漫步在太空的空间站。,Walk through the space station in outerspace.，
+漫步在太空的宇航员。,Astronaut walking through space.，

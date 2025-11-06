@@ -1,0 +1,204 @@
+[115.json] (Affirmative) Research is an emerging field internationally.
+[142.json] (Negative) Four computers on the table
+[154.json] (Negative) The teacher lectured on history for three days.
+[103.json] (Negative) A robot is created.
+[197.json] (Negative) The artistic youth who like this article.
+[178.json] (Negative) Rigorous examiners
+[20.json] (Negative) The drum is being beaten.
+[98.json] (Negative) The security guards and police working at this shopping mall are communicating outside the building.
+[77.json] (Negative) Explore and comprehend the area
+[139.json] (Negative) Clothes in a cupboard
+[61.json] (Negative) Selected thousand-year-old wood
+[181.json] (Negative) The tiger that bit the fox to death.
+[36.json] () Lost their cute dog.
+[119.json] (Negative) The solution consists of five internationally renowned mathematicians.
+[41.json] (Affirmative) Repair the table with a hammer.
+[16.json] (Negative) The data center is being managed.
+[158.json] (Negative) I have been doing homework for three days.
+[57.json] (Negative) Articles in four newspapers
+[174.json] (Negative) Feeling a pleasant atmosphere
+[94.json] (Negative) The legs of the blanket and the stool are both broken.
+[123.json] (Affirmative) Studio room for decorating the house.
+[82.json] (Negative) Research difficult problems
+[6.json] (Negative) The fruits being harvested are from the orchard.
+[135.json] (Negative) Detective investigating a major criminal suspect
+[162.json] (Negative) I have been watching movies for over a decade.
+[163.json] (Affirmative) I watched a movie from over a decade ago.
+[7.json] (Negative) The ones currently harvesting are the fruit farmers in the orchard.
+[83.json] (Affirmative) Study the clear problem.
+[134.json] (Negative) Suspects of major cases under investigation.
+[95.json] (Negative) The sleeves of his clothes and his cane are both dirty.
+[122.json] (Negative) Studio personnel for house decoration
+[175.json] (Negative) Savor the joyful ambiance
+[56.json] (Negative) Articles in four newspapers
+[159.json] (Negative) Wrote three homework assignments.
+[17.json] (Negative) The one currently managing is the school's specialized administrator.
+[118.json] (Negative) The solution is five internationally renowned mathematical problems.
+[40.json] (Negative) Repair the table legs
+[180.json] (Negative) The cat bit the hunter to death.
+[37.json] (Negative) Bit his family's wild dog.
+[138.json] (Negative) A piece of clothing in the wardrobe
+[60.json] (Negative) Selected ten minutes of wood
+[99.json] (Negative) The birds and fish in the air are his prey.
+[76.json] (Negative) Survey unpopulated areas
+[196.json] (Negative) I enjoy the writing style of this article.
+[179.json] (Negative) Investigating academically challenged students
+[21.json] () The drummer being hit is one who has been working in the drumming industry for decades.
+[102.json] (Negative) What is created is a scientist.
+[155.json] (Negative) The teacher has been teaching history for three thousand years.
+[143.json] (Negative) Four computers on the tables.
+[114.json] (Negative) The forefront of scientific research is the scientist.
+[47.json] (Negative) Three stones from the river.
+[148.json] (Negative) Seven fresh flowers in pots
+[10.json] (Negative) What is being taught is knowledge.
+[109.json] (Negative) What was missed were the athletes who had been waiting for the opportunity for a long time.
+[51.json] (Affirmative) Batteries for three toy cars.
+[172.json] (Negative) Engaging TV series
+[92.json] (Negative) Gift from the leader for a birthday
+[125.json] (Negative) Architect of the overall code structure
+[84.json] (Negative) Easily maneuverable machine
+[0.json] (Negative) What is invented is a great scientist.
+[133.json] (Negative) Police cracking down on economic crimes.
+[164.json] (Negative) Managed a shop for over a decade
+[113.json] (Negative) What has been launched is a great company.
+[144.json] (Negative) Five phones on the bed.
+[152.json] (Negative) Nine actors from the movie.
+[105.json] (Negative) The harsh crackdown is on the long-trained SWAT.
+[191.json] (Negative) The worker who repaired the room
+[26.json] (Negative) Soaring over the canyon.
+[200.json] (Affirmative) Appreciate the charming scenery of the garden.
+[129.json] (Negative) Sanctioning Iran, a major economic power.
+[71.json] (Negative) Took a 5-minute test
+[88.json] (Negative) Give the homework book to the teacher
+[67.json] (Negative) Talked about a history of 100 years.
+[187.json] (Negative) Fell in love with the star's work
+[168.json] (Negative) Difficult-to-purchase products
+[30.json] (Negative) Surveying the economic development of townships
+[186.json] (Negative) Fell in love with the girl who is a celebrity.
+[169.json] (Negative) Purchase affordable products
+[31.json] (Negative) Investigating the economics professors in the township
+[89.json] (Negative) Distribute red workbooks
+[66.json] (Negative) Spoke about history for 2 hours
+[128.json] (Negative) Economic sanctions against Iran
+[70.json] (Negative) Did 5 exam papers
+[201.json] (Negative) Visitors enjoying the garden
+[190.json] (Negative) Maintained the windows in the room.
+[27.json] (Negative) elite athlete
+[104.json] (Negative) Harsh measures are taken against theft.
+[153.json] (Negative) Plots of nine movies
+[145.json] () Five phones on the bed.
+[112.json] (Negative) The product launched is a cutting-edge mobile phone.
+[165.json] (Negative) Managed a shop for over a decade.
+[1.json] (Negative) What is invented is a robot.
+[85.json] (Negative) Manipulate important machinery
+[132.json] (Negative) Crack down on economic criminal groups
+[93.json] (Negative) Send a birthday gift
+[124.json] (Negative) Research the overall structure of the code
+[173.json] (Negative) Exciting TV drama at night
+[108.json] (Negative) What was missed was this rare opportunity.
+[50.json] (Affirmative) Three batteries for toy cars.
+[149.json] (Negative) Seven potted plants with fresh flowers
+[11.json] (Negative) The one who is teaching is a professor.
+[46.json] (Affirmative) Stones in three rivers.
+[166.json] (Negative) A once crucial historical turning point
+[189.json] (Negative) Misunderstanding the child's parents.
+[69.json] (Negative) Drew 6 pictures
+[131.json] (Negative) Economic experts for developing countries
+[2.json] (Negative) What is cared about is a high score.
+[86.json] (Negative) Detain ferocious criminals
+[127.json] (Negative) Visitors to the Grand Palace
+[90.json] () Donate books to the library.
+[28.json] (Affirmative) A new ancient civilization was discovered.
+[170.json] (Negative) Products with sales difficulties
+[53.json] (Negative) Four cameras on the table
+[12.json] (Affirmative) The law is being enforced.
+[45.json] (Negative) Search for the program's code.
+[32.json] (Negative) Record the experiment results in the table.
+[185.json] (Negative) The child who ate the cake.
+[65.json] (Negative) Wrote the meeting report for 5 hours consecutively.
+[73.json] (Negative) Market high-end products.
+[202.json] (Negative) Walking in the space station in space.
+[24.json] (Negative) The focus is on corporate culture.
+[193.json] (Negative) The one on trial is a criminal.
+[107.json] (Negative) The investigation is on the individuals involved in corruption in this case.
+[150.json] (Negative) Eight coins in the wallet.
+[146.json] (Negative) Cover personalities on six magazines.
+[49.json] (Negative) Two horses on the grassy field
+[111.json] (Negative) The performance is Sun Wukong from Journey to the West.
+[48.json] (Negative) Two horses on the grassland
+[110.json] (Negative) The performance is by frontline actors from the province.
+[147.json] (Negative) Six cover personalities from magazines.
+[151.json] () Coins in eight wallets.
+[106.json] (Negative) The investigation is into this corruption and bribery case.
+[25.json] (Negative) The research is on enterprise scientific research personnel.
+[192.json] (Negative) The one being judged is a judge.
+[203.json] (Negative) Astronaut floating in space
+[72.json] (Negative) Products with rapid sales
+[64.json] (Negative) Wrote 5 consecutive meeting reports
+[33.json] (Negative) Record the experimental results.
+[184.json] (Negative) Ate the chocolate on the cake.
+[44.json] (Negative) Programmers for searching programs
+[13.json] (Negative) Bailiffs are currently executing.
+[52.json] () Four cameras on the table.
+[29.json] (Negative) What was discovered was an archaeology professor.
+[171.json] (Negative) Selling cheap, low-quality products
+[126.json] (Affirmative) Visit the interior structure of the Grand Palace.
+[91.json] (Negative) Donate books overseas
+[68.json] (Affirmative) Drew a picture for 6 minutes.
+[130.json] (Negative) Improving the country's economic level
+[87.json] (Negative) Detain the criminals tightly
+[3.json] (Negative) Those who care about you are the ones you don't care about.
+[167.json] (Negative) A crucial historical juncture
+[188.json] (Negative) Wrongly accused parents of their good intentions.
+[34.json] (Negative) Ate the tourist's alligator.
+[183.json] (Negative) The tiger that killed the hunter.
+[63.json] (Negative) Played a character from 500 years ago
+[8.json] (Negative) The doctor undergoing surgery is healthy.
+[75.json] (Negative) Construct huge buildings.
+[22.json] (Negative) Playing the part of a dragon
+[195.json] (Negative) Teaching is for students who love to learn.
+[59.json] (Negative) Visited ancient buildings for five hours.
+[101.json] (Negative) The harvest is delicious fruit.
+[156.json] (Negative) Staged a historical drama for two days.
+[18.json] (Negative) What is captured is the prey.
+[140.json] (Negative) Monks from three temples
+[117.json] (Affirmative) The research is an internationally renowned mathematician specializing in mathematical problems.
+[38.json] (Negative) Scoop for watermelon
+[160.json] (Negative) Sold cars for more than ten years
+[137.json] () Travelers who enjoy the process of traveling.
+[4.json] (Negative) The criticism is of students who have made mistakes.
+[80.json] (Negative) Smoothly acquired products
+[79.json] (Negative) Watch a cozy movie
+[121.json] (Negative) Killed the landlord's assassin.
+[96.json] (Negative) The computer screen and chair need to be placed neatly.
+[176.json] (Negative) Investigate simple matters
+[199.json] (Negative) Audience listening to moving music
+[55.json] (Affirmative) Two kitchen knives in two kitchens.
+[14.json] (Affirmative) The rice in the fields is being harvested.
+[43.json] (Negative) Touring attractions in other countries.
+[42.json] (Affirmative) Visit the president of another country.
+[15.json] (Negative) What is being harvested are the children of farmers.
+[54.json] (Negative) Two Chinese kitchen knives in the kitchen.
+[177.json] (Negative) research completed
+[198.json] (Negative) Listen to the lyrics of captivating music.
+[78.json] (Negative) Enjoy a wonderful movie.
+[120.json] (Affirmative) Killed the landlord's cat.
+[97.json] (Negative) The computer and sofa on the table both need to be thrown away.
+[136.json] (Negative) Enjoy meeting travelers during the process of traveling.
+[81.json] (Negative) Procure fragile products
+[5.json] (Affirmative) The criticism is of a strict teacher.
+[39.json] (Negative) Peel the skin of the watermelon.
+[161.json] (Negative) Sold a car that was more than ten years old.
+[116.json] (Negative) The research is on internationally renowned mathematical problems.
+[19.json] (Affirmative) The captured is the hunter.
+[141.json] (Negative) Three monks in the temple
+[157.json] (Affirmative) Performed a historical drama for two thousand years.
+[58.json] (Negative) Visited a thousand-year-old ancient building.
+[100.json] () The harvest belongs to the diligent farmer.
+[23.json] (Negative) Portrayed by Jet Li.
+[194.json] (Negative) My teacher is my mentor
+[74.json] (Negative) Build fast buildings
+[62.json] (Negative) Played a two-minute part
+[9.json] (Negative) The patient undergoing surgery is in a critical condition.
+[35.json] (Negative) A tourist's cat was eaten.
+[182.json] (Negative) The hunter's dog was killed.
