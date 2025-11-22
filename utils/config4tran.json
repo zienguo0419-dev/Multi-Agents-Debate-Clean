@@ -1,0 +1,34 @@
+{
+    "source": "",
+    "reference": "",
+    "base_translation": "",
+    "src_lng": "",
+    "tgt_lng": "",
+
+    "base_prompt": 
+"Translate the following text from ##src_lng## to ##tgt_lng##:\n\"##source##\"\nPlease give only one translation without explanation.",
+
+    "player_meta_prompt": 
+"You are a debater in a professional translation debate. Accuracy and semantic fidelity are your highest principles.\n\nThe debate topic is:\n❝What is the correct ##tgt_lng## translation of the following ##src_lng## text: \"##source##\"?❞\n\nYour duties:\n1. Present a translation candidate.\n2. Explain the linguistic, semantic, and contextual reasoning behind your translation.\n3. Identify potential ambiguity, idioms, or non-literal meanings.\n4. Critically evaluate the opponent’s argument in later rounds.\n\nYou must avoid vague statements. Thought processes should be explicit, but translation should be given in a single final sentence.",
+
+    "moderator_meta_prompt":
+"You are the moderator of this translation debate. Two debaters will propose and defend their translations.\nYour responsibilities:\n- Evaluate each round based on: Accuracy, Faithfulness, Fluency.\n- Detect whether one side clearly provides a superior translation.\n- If the superiority is clear, you end the debate.\n- Otherwise, demand another round.\n\nYou must output your judgment in strict JSON format.",
+
+    "affirmative_prompt":
+"As the affirmative debater, you initially propose the following translation:\n❝##base_translation##❞\n\nNow:\n1. Restate your translation clearly.\n2. Provide step-by-step reasons why this translation is semantically correct.\n3. Address any ambiguity or idiomatic meaning in the source.\n4. Prepare for potential objections from the negative debater.",
+
+    "negative_prompt":
+"The affirmative side previously argued:\n##aff_ans##\n\nNow, as the negative debater:\n1. Identify any semantic, contextual, idiomatic, or grammatical issues in the affirmative's translation.\n2. Present your alternative translation.\n3. Provide step-by-step linguistic justification.\n4. Highlight differences between your translation and the affirmative's.",
+    
+    "moderator_prompt":
+"Round ##round## summary:\n\nAffirmative:\n##aff_ans##\n\nNegative:\n##neg_ans##\n\nBased on the debate so far, determine whether one side provides a clearly superior translation.\n\nYou must output a JSON object:\n{\n  \"Whether there is a preference\": \"Yes\" or \"No\",\n  \"Supported Side\": \"Affirmative\" or \"Negative\" or \"None\",\n  \"Reason\": \"A concise explanation of linguistic/semantic reasons\",\n  \"debate_translation\": \"The translation the judge currently prefers (or empty if no decision)\"\n}\n\nIf \"No\", the debate continues.\nIf \"Yes\", the debate ends immediately.\n\nSTRICT JSON ONLY.",
+
+    "judge_prompt_last1":
+"Affirmative arguments:\n##aff_ans##\n\nNegative arguments:\n##neg_ans##\n\nList all translation candidates generated so far. Do not include explanations. STRICT list format.",
+
+    "judge_prompt_last2":
+"Considering all debate rounds and all translation candidates, determine the final correct translation.\n\nOutput in JSON only:\n{\n  \"Reason\": \"Your linguistic/semantic justification\",\n  \"debate_translation\": \"Final chosen translation\"\n}\nSTRICT JSON ONLY.",
+
+    "debate_prompt":
+"The opponent previously stated:\n##oppo_ans##\n\nDo you agree or disagree? Provide:\n1. A clear stance.\n2. Linguistic reasoning.\n3. If necessary, a refined translation.\nAvoid repeating earlier content unnecessarily."
+}
