@@ -1,0 +1,9 @@
+/*
+!/.gitignore
+!/code/
+!/code/**
+
+# drop Python caches
+__pycache__/
+*.py[cod]
+*.$py.class
